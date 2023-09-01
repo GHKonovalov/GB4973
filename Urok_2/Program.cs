@@ -55,7 +55,7 @@ else if (dayWeek == 3)
 else if (dayWeek == 4)
 { Console.WriteLine("Сегодня Четверг"); }
 else if (dayWeek == 5)
-{ Console.WriteLine("Сегодня Пятнице"); }
+{ Console.WriteLine("Сегодня Пятница"); }
 else if (dayWeek == 6)
 { Console.WriteLine("Сегодня Суббота"); }
 else if (dayWeek == 7)
